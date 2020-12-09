@@ -1,5 +1,5 @@
 ---
-title: "blog-secondtry"
+title: "blog"
 author: "Elizabeth Boling"
 date: "12/9/2020"
 output: html_document
@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library(blogdown)
 blogdown::new_site(dir="~/finalDASCProg")
+
 ```
 
 ## R Markdown
