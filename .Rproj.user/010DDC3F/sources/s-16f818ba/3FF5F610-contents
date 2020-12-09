@@ -1,0 +1,3 @@
+library(blogdown)
+blogdown::new_site(dir="~/finalDASCProg")
+
